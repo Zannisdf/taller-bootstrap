@@ -1,3 +1,38 @@
+body{
+  background-color: rgb(233, 233, 233);
+}
+
 .navbar{
-  background-color: teal;
+  background-color: rgb(62, 182, 203);
+}
+
+.main{
+  height: calc(100vh - 56px);
+}
+
+.cards{
+  align-items: center;
+}
+
+.card{
+  display: inline-block;
+}
+
+.foot{
+  background-color: rgb(62, 182, 203);
+  position: absolute;
+  text-align: justify;
+  padding-top: 1rem;
+}
+
+.btn{
+  background-color: rgba(62, 182, 203, 0.6);
+}
+
+.btn:hover{
+  background-color: rgba(62, 182, 203, 1);
+}
+
+.wrap{
+  margin-bottom: 2rem;
 }
