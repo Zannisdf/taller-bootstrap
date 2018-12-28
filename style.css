@@ -10,12 +10,8 @@ body{
   height: calc(100vh - 56px);
 }
 
-.cards{
-  align-items: center;
-}
-
-.card{
-  display: inline-block;
+.main-img{
+  border-radius: 5px;
 }
 
 .foot{
